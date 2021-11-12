@@ -1,6 +1,6 @@
 # Resolución tarea 1 ICI4340 - Redes de Computadores
 
-<h2>Problematica</h2>
+<h3>Problematica</h3>
 Los programas C adjuntos son un cliente y un servidor que usan IPv4 (tomados de Mouhsen Ibrahim, con algunos cambios menores para evitar advertencias
 del compilador). El archivo Makefile organiza la compilación bajo Linux.
 
