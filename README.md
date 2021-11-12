@@ -9,7 +9,7 @@ distintas.
 1. Compile y ejecute los programas, y comente lo que debió hacer y sus
 resultados.
 
-2. Modifique los programas para usar UDP en vez de TCP. ¿Qu´e consideraciones debe hacer?
+2. Modifique los programas para usar UDP en vez de TCP. ¿Qué consideraciones debe hacer?
 
 3. Modifique los cuatro programas anteriores (servidor y cliente para TCP y
 UDP) para usar IPv6, no IPv4. Comente las intervenciones requeridas.
