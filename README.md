@@ -1,1 +1,1 @@
-# Resolución de tarea 1 para el ramo Redes de computadoras
+# Resolución tarea 1 ICI4340 - REDES DE COMPUTADORES
