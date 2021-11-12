@@ -1,1 +1,1 @@
-# Resolución tarea 1 ICI4340 - REDES DE COMPUTADORES
+Resolución tarea 1 ICI4340 - Redes de Computadores
