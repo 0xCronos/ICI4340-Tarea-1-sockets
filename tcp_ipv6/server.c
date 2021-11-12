@@ -25,7 +25,7 @@ int main(int argc, char const *argv[]) {
   server.sin6_port = htons(port);
   len = sizeof(server);
   if (bind(serverFd, (struct sockaddr *)&server, len) < 0) {
-    perror("Cannot bind sokcet");
+    perror("Cannot bind socket");
     exit(2);
   }
   if (listen(serverFd, 10) < 0) {
